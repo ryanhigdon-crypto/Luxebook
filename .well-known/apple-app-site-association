@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["8A46G36YR6.LuxeBook.LuxeBook-CRM"],
+        "components": [
+          {
+            "/": "/b/*",
+            "comment": "Booking page deep link"
+          }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["8A46G36YR6.LuxeBook.LuxeBook-CRM.Clip"]
+  }
+}
